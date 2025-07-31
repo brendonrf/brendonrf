@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍💻 Analista de TI • Infraestrutura e Suporte
+💼 +10 anos de experiência com redes, servidores e tecnologia
+🔧 Linux, Windows, AD, ERP, Zabbix, CFTV
+🎓 Formado em ADS
+📍 RJ • Brasil
+🚀 Apaixonado por resolver problemas e simplificar o dia a dia com tecnologia.
