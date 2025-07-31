@@ -5,14 +5,14 @@
 
 # Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/risoflorais">
+  <a href = "https://github.com/brendonrf">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 2020](https://github.com/risoflorais).
+Sou Analista de TI • Infraestrutura e Suporte [Brendon R](https://github.com/brendonrf).
 
 👨‍💻 Analista de TI • Infraestrutura e Suporte
 💼 Experiência com redes, servidores e tecnologia
@@ -34,15 +34,8 @@ Sou desenvolvedora de jogos, amo jogos indie, e já participei do [GameJam de 20
 ---
 
 
-<div align = "center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=radical&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=radical&count_private=true" />
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-👨‍💻 Analista de TI • Infraestrutura e Suporte
-💼 +10 anos de experiência com redes, servidores e tecnologia
-🔧 Linux, Windows, AD, ERP, Zabbix, CFTV
-🎓 Formado em ADS
-📍 RJ • Brasil
-🚀 Apaixonado por resolver problemas e simplificar o dia a dia com tecnologia.
+
+
+
+![brendonrf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonrf&theme=radical&show_icons=true&hide_border=false&layout=compact)
+![brendonrf's Stats](https://github-readme-stats.vercel.app/api?username=brendonrf&theme=radical&show_icons=true&hide_border=false&count_private=true)
