@@ -6,7 +6,7 @@
 
 # Olá, bom ter você por aqui!
   <div id="badges">
-  <a href = "https://github.com/brendonrf](https://www.linkedin.com/in/brendon-rufino-0805051a2">
+  <a href = "https://www.linkedin.com/in/brendon-rufino-0805051a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
