@@ -1,10 +1,9 @@
 # Olá, Mundo! 👋 🤪
 
 
-
 <img src = "banner.gif" width = "325px" align = "right">
 
-# Olá, bom ter você por aqui!
+# Seja bem vindo!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/brendon-rufino-0805051a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +16,7 @@ Sou Analista de TI • Infraestrutura e Suporte [Brendon R](https://github.com/b
 
 # 👨‍💻 Brendon 
 
-💻 Analista de TI com 10+ anos de experiência  
+💻 Analista de TI   
 🖥️ Infraestrutura | Redes | Servidores Linux/Windows | Suporte Técnico  
 📡 Virtualização | CFTV | Monitoramento (Zabbix, WhatsUp Gold)  
 🔧 Active Directory, redes estruturadas e ERP  
