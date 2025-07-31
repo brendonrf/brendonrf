@@ -15,11 +15,15 @@
 
 Sou Analista de TI • Infraestrutura e Suporte [Brendon R](https://github.com/brendonrf).
 
-👨‍💻 Analista de TI • Infraestrutura e Suporte
-💼 Experiência com redes, servidores e tecnologia
-🔧 Linux, Windows, AD, ERP, Zabbix
-🎓 Formado em ADS
-📍 RJ • Brasil
+# 👨‍💻 Brendon 
+
+💻 Analista de TI com 10+ anos de experiência  
+🖥️ Infraestrutura | Redes | Servidores Linux/Windows | Suporte Técnico  
+📡 Virtualização | CFTV | Monitoramento (Zabbix, WhatsUp Gold)  
+🔧 Active Directory, redes estruturadas e ERP  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas  
+📍 RJ, Brasil
+
 🚀 Apaixonado por resolver problemas e simplificar o dia a dia com tecnologia.
 - 👩‍💻 Aprendendo algo sobre back-end
 
