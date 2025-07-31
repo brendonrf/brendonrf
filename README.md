@@ -3,7 +3,6 @@
 
 <img src = "banner.gif" width = "325px" align = "right">
 
-# Seja bem vindo!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/brendon-rufino-0805051a2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -12,7 +11,6 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-Sou Analista de TI • Infraestrutura e Suporte [Brendon R](https://github.com/brendonrf).
 
 # 👨‍💻 Brendon 
 
