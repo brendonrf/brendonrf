@@ -40,5 +40,5 @@
 
 
 
-![brendonrf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonrf&theme=radical&show_icons=true&hide_border=false&layout=compact)
-![brendonrf's Stats](https://github-readme-stats.vercel.app/api?username=brendonrf&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![brendonrf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brendonrf&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![brendonrf's Stats](https://github-readme-stats.vercel.app/api?username=brendonrf&theme=merko&show_icons=true&hide_border=false&count_private=true)
